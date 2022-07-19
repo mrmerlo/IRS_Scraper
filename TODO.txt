@@ -1,0 +1,2 @@
+2 - write solid excel updater, fatto
+3 - check excel updater in jupyter notebook
